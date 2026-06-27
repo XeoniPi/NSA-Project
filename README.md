@@ -38,8 +38,8 @@ This project demonstrates a **Campus Network** design using **Cisco Packet Trace
 - Introduce **IPv6 support** for future scalability.
 
 ## Author
-Developed by: **[Your Name]**
+Developed by: **ABDUR RAHMAN ROKY**
 
 ## License
-This project is licensed under the MIT License.
+
 
