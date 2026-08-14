@@ -1,0 +1,12 @@
+Device A,Port A,Device B,Port B,Purpose
+HO-CORE-SW1,Gi0/1,HO-CORE-SW2,Gi0/1,Core interconnect
+HO-CORE-SW1,Gi0/2,HO-ACC-SW1,Gi0/1,Trunk/uplink
+HO-CORE-SW1,Gi0/3,HO-ACC-SW2,Gi0/1,Trunk/uplink
+HO-CORE-SW1,Gi0/4,HO-ACC-SW3,Gi0/1,Trunk/uplink
+HO-CORE-SW1,Gi0/5,HO-ACC-SW4,Gi0/1,Trunk/uplink
+HO-CORE-SW2,Gi0/2,HO-ACC-SW1,Gi0/2,Redundant uplink
+HO-CORE-SW2,Gi0/3,HO-ACC-SW2,Gi0/2,Redundant uplink
+HO-CORE-SW2,Gi0/4,HO-ACC-SW3,Gi0/2,Redundant uplink
+HO-CORE-SW2,Gi0/5,HO-ACC-SW4,Gi0/2,Redundant uplink
+HO-CORE-SW1,Gi0/6,HO-WAN-R1,Gi0/0/0,Primary WAN edge
+HO-CORE-SW2,Gi0/6,HO-WAN-R2,Gi0/0/0,Secondary WAN edge
